@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Santi Ramirez
+- 👀 I’m interested in Industrial Engineering integration with Data Science
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on Industrial Projects
